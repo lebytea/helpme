@@ -21,8 +21,8 @@ theard for branch forEwergy
 18-23 asterisk 
 =======
  
+=====================
+monday: 8-06  by merge 8-34
 
-<<<<<<< HEAD
-monday: 8-06
 
 
