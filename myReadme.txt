@@ -22,4 +22,7 @@ theard for branch forEwergy
 =======
  
 
+<<<<<<< HEAD
 monday: 8-06
+
+
